@@ -1,0 +1,45 @@
+------------------------------------------------------------------
+
+Chief Complaint: 
+
+------------------------------------------------------------------
+History/ OPQRSTSAMPLE
+O: Sudden
+P: 
+Q: Sharp
+R: Local
+S: 10/10
+T: 
+
+
+S: 
+A:  No Known Allergies
+M: 
+P: Patient was a previously healthy individual.
+L:  Patient last ate at 1200
+E:  Patient was going through normal daily routine
+
+------------------------------------------------------------------
+Assessment
+
+Primary
+A: Patients airway is patent
+B: Patient is breathing comfortably. Patients lung sounds were clear bilaterally
+C: Patient had a strong radial pulse in right wrist
+D: Patient was alert and oriented to person place time and event
+E: Patient was in a comfortable environment
+
+Secondary
+Head: no blood in hair or deformations to scalp
+Neck: no spinal step off or pain on palpation
+Chest: no paradoxical movement or tender areas
+Back: no pain on palpation 
+Abdomen: no pain on palpation
+Legs: pulse motor sensory intact, full range of motion, and no swelling or obvious deformities on both leg.
+Arms: pulse motor sensory intact, full range of motion, and no swelling or obvious deformities on both arm.
+
+------------------------------------------------------------------
+
+Treatment: Patient was quickly loaded into the back of Medic 551
+
+------------------------------------------------------------------
