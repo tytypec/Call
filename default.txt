@@ -1,4 +1,5 @@
 
+
 ------------------------------------------------------------------
 
 Chief Complaint: 
@@ -6,14 +7,14 @@ Chief Complaint:
 ------------------------------------------------------------------
 History/ OPQRSTSAMPLE
 O: Sudden
-P: Touching that area
-Q: Sharp
-R: Stays local to that area
-S: 7/10
-T: Began about 3 days ago
+P: 
+Q: 
+R: 
+S:  7/10
+T: 
 
 
-S: Abdominal Pain, Vomiting
+S: 
 A:  No Known Allergies
 M: 
 P: 
@@ -35,7 +36,7 @@ Head: no blood in hair or deformations to scalp
 Neck: no spinal step off or pain on palpation
 Chest: no paradoxical movement or tender areas
 Back: no pain on palpation 
-Abdomen: Patient complained of pain when lower right quadrant was palpated
+Abdomen: no pain on palpation
 Legs: pulse motor sensory intact, full range of motion, and no swelling or obvious deformities on both leg.
 Arms: pulse motor sensory intact, full range of motion, and no swelling or obvious deformities on both arm.
 

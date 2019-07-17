@@ -89,17 +89,10 @@ fi
 
 
 if [ $transport = f ]; then
-	echo "Patient was transported routine to Finley hospital. Patient was moved from cot to bed using a sheet carry method. Patient care was transfered over to nurse " "$NURSE"
+	echo "Patient was transported routine to Finley hospital. Patient was moved from cot to bed using a sheet carry mehtod. Patient care was transfered over to" "$NURSE"
 else
-	echo "Patient was transported routine to Mercy hospital. Patient was moved from cot to bed using a sheet carry method. Patient care was transfered over to nurse " "$NURSE"
+	echo "Patient was transported routine to Mercy hospital. Patient was moved from cot to bed using a sheet carry mehtod. Patient care was transfered over to" "$NURSE"
 fi
 
-#Having Trouble figuring out how to copy to clipboard. SHOOT
-#xclip -o > callout.txt
-
-#echo "$(<callout.txt)" | xclip -selection clipboard"
-
-
-#echo xclip -selection c
-#echo  | xclip -sel clip
+echo "$(<call.sh)" | xclip -selection clipboard
 #xclip -selection clipboard -o

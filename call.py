@@ -1,5 +1,5 @@
 print "enter your data priority: e=emergent r=routine "
-print "enter your data type: a=abdominal pain t=trauma s=sick person u=unknown problems"
+print "enter your data type: a=abdominal pain t=trauma s=sick person o=overdose d=diabetic problems u=unknown problems"
 print "enter your data transport: f=finley m=mercy    "
 print "-----------------------------------------------"
 
@@ -21,6 +21,10 @@ elif type == "t":
 	chicom = "a patient suffering from a traumatic injury"
 elif type == "s":
 	chicom = "a sick person"
+elif type == "d":
+	chicom = "a diabetic emergency"
+elif type == "o":
+	chicom = "an overdose"
 else:
 	chicom = "an unknown problem"
 	
@@ -72,6 +76,14 @@ elif type == "t":
 elif type == "s":
 	print "sick person"
 	with open('sickper.txt', 'r') as file:
+		typeprime = file.read()
+elif type == "d":
+	print "diabetic problems"
+	with open('diabetic.txt', 'r') as file:
+		typeprime = file.read()
+elif type == "o":
+	print "overdose"
+	with open('overdose.txt', 'r') as file:
 		typeprime = file.read()
 else:
 	print "unknown problem"

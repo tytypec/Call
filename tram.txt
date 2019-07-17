@@ -1,3 +1,4 @@
+
 ------------------------------------------------------------------
 
 Chief Complaint: 
@@ -43,3 +44,4 @@ Arms: pulse motor sensory intact, full range of motion, and no swelling or obvio
 Treatment: Patient was quickly loaded into the back of Medic 551
 
 ------------------------------------------------------------------
+

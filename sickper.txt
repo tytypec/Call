@@ -1,3 +1,5 @@
+
+
 ------------------------------------------------------------------
 
 Chief Complaint: Sick person
@@ -7,8 +9,8 @@ History/ OPQRSTSAMPLE
 O: Sudden
 P: tylenol did not help with fever
 Q: Patient denies having pain
-R: Patient denies having pa
-S: Patient denies having pa
+R: Patient denies having pain
+S: Patient denies having pain
 T: Started 3 days ago
 
 
@@ -43,3 +45,4 @@ Arms: pulse motor sensory intact, full range of motion, and no swelling or obvio
 Treatment: Patient was loaded into the back of medic 551
 
 ------------------------------------------------------------------
+

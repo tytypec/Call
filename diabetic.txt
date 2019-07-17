@@ -1,22 +1,23 @@
 
+
 ------------------------------------------------------------------
 
-Chief Complaint: 
+Chief Complaint: Diabetic problems
 
 ------------------------------------------------------------------
 History/ OPQRSTSAMPLE
 O: Sudden
-P: Touching that area
-Q: Sharp
-R: Stays local to that area
-S: 7/10
-T: Began about 3 days ago
+P: Patient denies having pain
+Q: Patient denies having pain
+R: Patient denies having pain
+S: Patient denies having pain
+T: about 30 minutes ago.
 
 
-S: Abdominal Pain, Vomiting
-A:  No Known Allergies
-M: 
-P: 
+S: patient reports feeling weak and light headed
+A: No Known Allergies
+M: insulin and lisinopril
+P: patient reports a history of diabetes and high blood pressure
 L:  Patient last ate at 1200
 E:  Patient was going through normal daily routine
 
@@ -24,8 +25,8 @@ E:  Patient was going through normal daily routine
 Assessment
 
 Primary
-A:  Patients airway is patent
-B:  Patient is breathing comfortably. Patients lung sounds were clear bilaterally
+A: Patients airway is patent
+B: Patient is breathing comfortably. Patients lung sounds were clear bilaterally
 C: Patient had a strong radial pulse in right wrist
 D: Patient was alert and oriented to person place time and event
 E: Patient was in a comfortable environment
@@ -35,7 +36,7 @@ Head: no blood in hair or deformations to scalp
 Neck: no spinal step off or pain on palpation
 Chest: no paradoxical movement or tender areas
 Back: no pain on palpation 
-Abdomen: Patient complained of pain when lower right quadrant was palpated
+Abdomen: no pain on palpation
 Legs: pulse motor sensory intact, full range of motion, and no swelling or obvious deformities on both leg.
 Arms: pulse motor sensory intact, full range of motion, and no swelling or obvious deformities on both arm.
 
