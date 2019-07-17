@@ -97,6 +97,7 @@ else:
 
 finalprint = priorityprime + typeprime + transportprime
 
-print finalprint | xclip -selection clipboard
+print finalprint 
+
 #xclip -selection clipboard
 #print random
